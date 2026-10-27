@@ -51,6 +51,9 @@ The following tables describe each meter, its pricing, and how it measures usage
 
 ## Storage services
 
+> [!NOTE]
+> Azure Consumption Discount (ACD) applies to storage services. Microsoft Azure Consumption Commitment (MACC) doesn't apply to storage services.
+
 |Service|What's counted?|What's billed? (USD)|
 |:----|:--------------|:-------------|
 |**[Microsoft 365 Archive](/microsoft-365/archive/archive-overview)**  |The number of gigabytes (GB) of data archived across files and sites. (This meter is only charged when archived storage plus active storage in SharePoint exceeds a tenant's included or licensed allocated SharePoint storage capacity limit.) <br><br><br><sup>**NOTE**: Education organizations are billed at $0.02/GB/month for the data archived. This meter is only charged when archived storage in SharePoint plus active pooled storage usage exceeds a tenant's pooled storage capacity limit. For more information, see [Education offering](../archive/archive-education-offering.md).</sup>    |$0.05/GB/month (shows on invoice as $0.00167/GB/day)<br><br> No reactivation fee|
